@@ -1,0 +1,4 @@
+*.ts text/plain
+*.tsx text/plain
+*.js text/javascript
+*.json application/json
